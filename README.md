@@ -2,11 +2,11 @@
 
 Onboard a cargo ship orbiting an alien planet:
 
-First officer: "Captain, look! This planet is crawing with aliens."
+First officer: "Wow this planet is *crawing* with aliens."
 
 Down the hallway: "Wow, one of these crates is full of guns with unlimited ammo!"
 
-Captain: "Excellent. We must move *immediately*."
+Captain: "Excellent. We move *immediately*."
 
 Helmsman: "Sir, there is nothing of value on that planet, and we are on a peaceful mission to -" (gun butt strikes forehead)
 
