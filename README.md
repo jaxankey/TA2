@@ -10,7 +10,7 @@ Captain: "Excellent. We move *immediately*."
 
 Helmsman: "Sir, there are absolutely no resources of value on that planet, and we are on a peaceful mission to -" (gun butt strikes forehead)
 
-Captain: "We don't have time for this. SUIT UP!"
+Captain: "We don't have time for this. LOCK AND LOAD!"
 
 # Total A-Holes II
 
