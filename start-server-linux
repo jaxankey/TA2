@@ -1,0 +1,23 @@
+#!/bin/bash
+
+# Defaults
+game='0'
+port='0'
+
+# If there are zero arguments, ask for the game
+if [ $# -ge 1 ]
+  then
+    game=$1
+fi
+
+# If there is only one argument, ask for the port
+if [ $# -ge 2 ]
+  then
+    port=$2
+fi
+
+cd "${0%/*}"
+pwd
+node server.js $game $port
+
+read -p '<enter> to exit: '
