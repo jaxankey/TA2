@@ -1,5 +1,5 @@
 /**
- * This file is part of the Wholesale Alien Slaughter II distribution 
+ * This file is part of the TA2 distribution 
  * Copyright (c) 2015-2020 Jack Childress (Sankey).
  * 
  * This program is free software: you can redistribute it and/or modify  
