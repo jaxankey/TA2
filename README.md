@@ -1,6 +1,6 @@
 ![Screenshot](https://raw.githubusercontent.com/jaxankey/TA2/master/common/images/screenshot.png)
 
-Onboard a cargo ship orbiting an alien planet:
+Onboard a cargo ship orbiting a distant planet:
 
 First officer: "Wow this planet is *crawing* with aliens."
 
@@ -8,7 +8,7 @@ Down the hallway: "Wow, one of these crates is full of guns with unlimited ammo!
 
 Captain: "Excellent. We move *immediately*."
 
-Helmsman: "Sir, there is nothing of value on that planet, and we are on a peaceful mission to -" (gun butt strikes forehead)
+Helmsman: "Sir, there are absolutely no resources of value on that planet, and we are on a peaceful mission to -" (gun butt strikes forehead)
 
 Captain: "We don't have time for this. SUIT UP!"
 
