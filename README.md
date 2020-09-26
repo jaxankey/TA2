@@ -1,11 +1,11 @@
 # TA2
 Shoot aliens in your browser, alone or with friends. The goal of this project is to realize satisfying gameplay that facilitates conversation. The controls are simple, so that you can hold a beer in one hand while playing:
 
-![Controls](https://raw.githubusercontent.com/jaxankey/TA2/master/common/images/instructions.png)
+<div style="text-align:center"><img src="https://raw.githubusercontent.com/jaxankey/TA2/master/common/images/instructions-web.png" /></div>
 
-No mouse, no complications, works on any laptop. You can also use `ijkl` and `space` or `shift`, or the arrow keys. For the advanced player (currently), `Q` and `E` or `U` and `O` can be used to switch handedness. This seemingly "funny" control scheme is inspired by [Phobia II](https://www.youtube.com/watch?v=XWGAd1dAPwQ), the greatest game ever made. If you are new to this scheme, it will take a little getting used to. As it turns out, however, a 60-degree shooting angle is a beautiful thing.
+No mouse, no complications, works on any laptop. You can also use `ijkl` and `space` or `shift`, or the arrow keys. For the advanced player (currently), `Q` and `E` or `U` and `O` can be used to switch handedness. This seemingly "funny" control scheme is inspired by [Phobia II](https://www.youtube.com/watch?v=XWGAd1dAPwQ), the greatest game ever made. If you are new to this scheme, it will take a little getting used to. As it turns out, a 60-degree shooting angle is a beautiful thing.
 
-Note this game is in its "early" stages (I have *many* plans for it), but it has already provided me countless hours of laughter with my brother and friends.
+Note this project is certainly in its "early" stages (I have *many* plans for it), but it has already provided me countless hours of laughter with my brother and friends. 
 
 ## Starting and testing a server
 
