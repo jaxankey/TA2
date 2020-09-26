@@ -1,5 +1,5 @@
 # TA2
-Shoot aliens in your browser, alone or with friends. The goal of this game is exceedingly simple controls (one hand on the keyboard, one hand in the snacks) and short, satisfying games.
+Shoot aliens in your browser, alone or with friends. The goal of this project is to create a space for short, satisfying games with exceedingly simple controls. One hand on the keyboard, one hand in the snacks.
 
 ## Starting and testing a server
 
