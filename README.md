@@ -12,7 +12,7 @@ Helmsman: "Sir, there are absolutely no resources of value on that planet, and w
 
 Captain: "We don't have time for this. SUIT UP!"
 
-# Total Assholes II
+# Total A-Holes II
 
 Shoot aliens in your browser, alone or with friends. The goal of this project is to realize satisfying gameplay that facilitates conversation. The controls are simple, so that you can hold a beer in one hand while playing:
 
