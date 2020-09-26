@@ -1,5 +1,18 @@
-# TA2
 ![Screenshot](https://raw.githubusercontent.com/jaxankey/TA2/master/common/images/screenshot.png)
+
+Onboard a cargo ship orbiting an alien planet:
+
+First officer: "Captain, look! This planet is crawing with aliens."
+
+Down the hallway: "Wow, one of these crates is full of guns with unlimited ammo!"
+
+Captain: "Excellent. We must move *immediately*."
+
+Helmsman: "Sir, there is nothing of value on that planet, and we are on a peaceful mission to -" (gun butt strikes forehead)
+
+Captain: "We don't have time for this. SUIT UP!"
+
+# Total Assholes II
 
 Shoot aliens in your browser, alone or with friends. The goal of this project is to realize satisfying gameplay that facilitates conversation. The controls are simple, so that you can hold a beer in one hand while playing:
 
