@@ -1,5 +1,5 @@
 # TA2
-Shoot aliens by yourself or with friends in your browser.
+Shoot aliens in your browser, alone or with friends. The goal of this game is exceedingly simple controls (one hand on the keyboard, one hand in the snacks) and short, satisfying games.
 
 ## Starting and testing a server
 
@@ -16,4 +16,4 @@ Windows
 
 A successfully booted server should declare something like `listening on port 37777` after initializing. At this point, you can test the server by opening a few Chrome browser windows side-by-side and typing in the address `localhost:37777`. 
 
-More documentation to come...
+More to come...
