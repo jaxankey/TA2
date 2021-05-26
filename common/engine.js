@@ -1900,7 +1900,8 @@ class Thing {
 class Item extends Thing {
 
   constructor(texture_paths, root_path, scale, type) {
-    
+    log('New Item', texture_paths, root_path, scale, type);
+
     // Construct Thing
     super(texture_paths, root_path, scale, type);
 
