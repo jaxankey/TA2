@@ -2,13 +2,13 @@
 
 Onboard a cargo ship orbiting a distant planet:
 
-First officer: "Wow this planet is *crawing* with aliens."
+First officer: "Wow this planet is *crawling* with aliens."
 
-Down the hallway: "Wow, one of these crates is full of guns with unlimited ammo!"
+Down the hallway: "Hey! One of these crates is full of guns with unlimited ammo!"
 
-Captain: "Excellent. We move *immediately*."
+Captain: "Excellent. We will transport to the surface *immediately*."
 
-Helmsman: "Sir, there are absolutely no resources of value on that planet, and we are on a peaceful mission to -" (gun butt strikes forehead)
+Helmsman: "Sir, there are no resources of value on that planet, and we are just a cargo shi-" (gun butt to the forehead)
 
 Captain: "We don't have time for this. LOCK AND LOAD!"
 
