@@ -29,7 +29,7 @@ Note this project is definitely in its "early" stages (I have *many* plans for i
 This program runs directly from the source code (see [Releases](https://github.com/jaxankey/TA2/releases)) so no compiling or binaries are required (other than downloading / installing [Node.js](https://nodejs.org/)). This server has been tested on Linux & Windows, but should work on OSX as well.
 
 Linux
- 1. Install [Node.js](https://nodejs.org/): For me, this meant downloading the binaries, unpacking them in a convenient folder, adding the binary path to `.profile` (with a line like `PATH=$PATH:/path/to/node/bin`) then logging out & back in.
+ 1. Install [Node.js](https://nodejs.org/): For me, this meant running the command `sudo apt install nodejs`, but you can also download the binaries, unpack them in a convenient folder, add the binary path to `.profile` (with a line like `PATH=$PATH:/path/to/node/bin`) then log out & back in.
  2. Run `./start-server-linux` (default settings) or `./start-server-linux TA2 <port>` from the terminal, where `<port>` is a TCP port, e.g., `37777`. 
  
 Windows
