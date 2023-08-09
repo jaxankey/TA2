@@ -14,7 +14,7 @@ Captain: "We don't have time for this. LOCK AND LOAD!"
 
 # Total A-Holes II
 
-Shoot aliens in your browser, alone or with friends. The goal of this project is to realize satisfying gameplay that facilitates conversation. The controls are simple, so that you can hold a beer in one hand while playing:
+Shoot aliens in your browser, alone or online with friends. The goal of this project is to realize satisfying gameplay that facilitates conversation. The controls are simple, so that you can hold a beer in one hand while playing:
 
 ![Controls](https://raw.githubusercontent.com/jaxankey/TA2/master/common/images/instructions-web.png)
 
